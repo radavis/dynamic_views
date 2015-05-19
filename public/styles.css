@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+  padding: 0 10%;
+}
+
+table {
+  width: 50%;
+}
+
+table tr:nth-child(odd) {
+  background-color: lightgray;
+}
+
+.bad-font {
+  font-family: Papyrus, fantasy;
+}
